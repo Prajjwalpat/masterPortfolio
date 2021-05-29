@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/sgkul2000/masterPortfolio",
+  portfolio_repository: "https://github.com/Prajjwalpat/masterPortfolio",
 };
 
 const socialMediaLinks = [
@@ -41,7 +41,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/sgkul2000",
+    link: "https://github.com/Prajjwalpat",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
